@@ -14,3 +14,9 @@ provider "aws" {
   region  = "us-east-1"
   profile = "bia"
 }
+
+rami-02f3f602d23f1659d"
+  instance_type = "t3.micro"
+esource "aws_instance" "bia-dev"{
+  ami           ="
+}
